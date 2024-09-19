@@ -1,2 +1,2 @@
 # masters-thesis
-This repository contains the codes that I wrote for my masters research project. It was on ion - surface interactions.
+This repository contains the codes developed for my masters research project, focusing on interactions between heavy, low-energy ionswith a Ru surface.
